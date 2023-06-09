@@ -12,7 +12,7 @@ Instalación y configuración de entorno de desarrollo
 
 ## Funcionamiento
 
-![](IMG/carro.jpg)
+![](IMG/OIP.jpg)
 
 
 
